@@ -29,7 +29,6 @@ dostepna jest na http://www.hvsc.c64.org/.
 %setup -q -n sidplay-%{version}
 
 %build
-
 %configure
 %{__make}
 
@@ -44,6 +43,6 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-%doc ChangeLog TODO README
+%doc AUTHORS ChangeLog README TODO
 %attr(755,root,root) %{_bindir}/*
 %{_mandir}/man1/%{name}.*
