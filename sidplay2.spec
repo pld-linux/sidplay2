@@ -1,4 +1,3 @@
-#$Revision: 1.2 $, $Date: 2005-02-20 21:15:59 $
 Summary:	Sidplay is SID-chip emulator for playing Commodore 64 music.
 Summary(pl):	Sidplay to emulator chipa SID s³u¿±cego do odgrywania muzyki z c64
 Name:		sidplay2
