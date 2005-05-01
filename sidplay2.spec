@@ -23,7 +23,7 @@ Sidplay 2 to druga wersja serii Sidplay oryginalnie rozwijanej przez
 Michaela Schwendta. Ta wersja zosta³a napisana przez Simona White'a i
 bardzo wiernie oddaje d¼wiêk. Sidplay 2 jest zdolny do grania
 wszystkich formatów mono i stereo z C64. Ogromna kolekcja muzyki SID
-dostêpna jest na http://www.hvsc.c64.org/ .
+dostêpna jest na <http://www.hvsc.c64.org/>.
 
 %prep
 %setup -q -n sidplay-%{version}
