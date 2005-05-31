@@ -7,7 +7,7 @@ License:	GPL v2
 Group:		X11/Applications
 Source0:	http://dl.sourceforge.net/sidplay2/sidplay-%{version}.tar.gz
 # Source0-md5:	8b0449e501ba8e684f718dce9b77c5a5
-URL:		http://sidplay2.sf.net/
+URL:		http://sidplay2.sourceforge.net/
 BuildRequires:	libsidplay2-devel
 BuildRequires:	pkgconfig
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
