@@ -1,5 +1,5 @@
 Summary:	Sidplay - SID-chip emulator for playing Commodore 64 music
-Summary(pl.UTF-8):   Sidplay - emulator układu SID służącego do odgrywania muzyki w Commodore 64
+Summary(pl.UTF-8):	Sidplay - emulator układu SID służącego do odgrywania muzyki w Commodore 64
 Name:		sidplay2
 Version:	2.0.9
 Release:	1
