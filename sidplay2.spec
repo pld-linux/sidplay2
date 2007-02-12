@@ -1,5 +1,5 @@
 Summary:	Sidplay - SID-chip emulator for playing Commodore 64 music
-Summary(pl):	Sidplay - emulator uk³adu SID s³u¿±cego do odgrywania muzyki w Commodore 64
+Summary(pl.UTF-8):   Sidplay - emulator ukÅ‚adu SID sÅ‚uÅ¼Ä…cego do odgrywania muzyki w Commodore 64
 Name:		sidplay2
 Version:	2.0.9
 Release:	1
@@ -18,12 +18,12 @@ Michael Schwendt. This version is written by Simon White and is cycle
 accurate for improved sound reproduction. Sidplay 2 is capable of
 playing all C64 mono and stereo file formats.
 
-%description -l pl
+%description -l pl.UTF-8
 Sidplay 2 to druga wersja serii Sidplay oryginalnie rozwijanej przez
-Michaela Schwendta. Ta wersja zosta³a napisana przez Simona White'a i
-bardzo wiernie oddaje d¼wiêk. Sidplay 2 jest zdolny do grania
-wszystkich formatów mono i stereo z C64. Ogromna kolekcja muzyki SID
-dostêpna jest na <http://www.hvsc.c64.org/>.
+Michaela Schwendta. Ta wersja zostaÅ‚a napisana przez Simona White'a i
+bardzo wiernie oddaje dÅºwiÄ™k. Sidplay 2 jest zdolny do grania
+wszystkich formatÃ³w mono i stereo z C64. Ogromna kolekcja muzyki SID
+dostÄ™pna jest na <http://www.hvsc.c64.org/>.
 
 %prep
 %setup -q -n sidplay-%{version}
